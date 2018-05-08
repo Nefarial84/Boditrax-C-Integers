@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\bin\Debug\C Integers.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\bin\Debug\C Integers.exe
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\bin\Debug\C Integers.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C Integers.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C_Integers.Form1.resources
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C_Integers.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C Integers.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C Integers.exe
+c:\users\andrew\documents\visual studio 2015\Projects\C Integers\C Integers\obj\Debug\C Integers.pdb
